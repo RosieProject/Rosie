@@ -1,13 +1,26 @@
 package App.Handler.Get;
+
+import App.Commons.GetDataCommon;
+import App.Models.Cpu;
+import App.Models.Hardware;
+import oshi.hardware.CentralProcessor;
+
 public class GetCPUData extends GetDataCommon{
-
-    public GetCPUData() {
+    private Hardware _hardware;
+    
+    public GetCPUData(Hardware hardware){
+        _hardware = hardware;
     }
-
+    
     @Override
-    public void get() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    public Hardware get() {
+        
+    Cpu cpu = _hardware.getCpu();
+    
+    cpu.setCpuUsage(cpu.getCentralProcessor().getSystemCpuLoadBetweenTicks());
+    
+    _hardware.setCpu(cpu);
+    
+    return _hardware;
     }
-
-
 }

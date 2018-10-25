@@ -1,7 +1,7 @@
 package App.Rosie;
 
-import App.Controller.Memory;
-import App.Controller.Cpu;
+import App.Controller.MemoryController;
+import App.Controller.CpuController;
 
 import Data.Credentials.CredentialsGoogle;
 
@@ -15,11 +15,11 @@ import com.google.firebase.FirebaseOptions;
 public class Startup {
     public static void main(String[] args){
 
-        Memory memory = new Memory();
-        Cpu cpu = new Cpu();
+        MemoryController memory = new MemoryController();
+        CpuController cpu = new CpuController();
         
             System.out.print(String.format("\n Memory Usage: %s%%", memory.getMemoryUsage() * 1048576));
-            System.out.print(String.format("\n Cpu Usage: %s%%", cpu.getCpuUsage()));
+            System.out.print(String.format("\n Cpu Usage: %s%%", cpu.getHandler().getCpu().getCpuUsage()));
 
         GoogleCredentials credentialsGoogle = new CredentialsGoogle().getGoogleCredentials();
         FirebaseOptions firebaseOptions = new Options(credentialsGoogle).getFirebaseOptions();

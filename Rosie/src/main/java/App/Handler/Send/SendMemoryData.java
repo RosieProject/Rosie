@@ -1,4 +1,7 @@
 package App.Handler.Send;
+
+import App.Commons.SendDataCommon;
+
 public class SendMemoryData extends SendDataCommon{
 
     public SendMemoryData() {
