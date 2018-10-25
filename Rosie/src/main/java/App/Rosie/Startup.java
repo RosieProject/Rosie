@@ -1,8 +1,8 @@
 package App.Rosie;
 
-import App.Controller.MemoryController;
 import App.Controller.CpuController;
 
+import App.Models.Cpu;
 import Data.Credentials.CredentialsGoogle;
 
 import Infrastructure.Firebase.CloudFirestoreFirebase;
@@ -15,11 +15,10 @@ import com.google.firebase.FirebaseOptions;
 public class Startup {
     public static void main(String[] args){
 
-        MemoryController memory = new MemoryController();
-        CpuController cpu = new CpuController();
-        
-            System.out.print(String.format("\n Memory Usage: %s%%", memory.getMemoryUsage() * 1048576));
-            System.out.print(String.format("\n Cpu Usage: %s%%", cpu.getHandler().getCpu().getCpuUsage()));
+        final Cpu _cpu = new Cpu();
+        CpuController cpuController = new CpuController(_cpu);
+
+            System.out.print(String.format("\n Cpu Usage: %s%%", cpuController.getHandler().getCpuUsage()));
 
         GoogleCredentials credentialsGoogle = new CredentialsGoogle().getGoogleCredentials();
         FirebaseOptions firebaseOptions = new Options(credentialsGoogle).getFirebaseOptions();

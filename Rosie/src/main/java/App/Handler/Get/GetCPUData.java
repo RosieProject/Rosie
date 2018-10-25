@@ -2,25 +2,19 @@ package App.Handler.Get;
 
 import App.Commons.GetDataCommon;
 import App.Models.Cpu;
-import App.Models.Hardware;
-import oshi.hardware.CentralProcessor;
 
 public class GetCPUData extends GetDataCommon{
-    private Hardware _hardware;
+    private Cpu _cpu;
     
-    public GetCPUData(Hardware hardware){
-        _hardware = hardware;
+    public GetCPUData(Cpu cpu)
+    {
+        _cpu = cpu;
     }
+
+    public Cpu get() {
+
+    _cpu.setCpuUsage(_cpu.getCentralProcessor().getSystemCpuLoadBetweenTicks());
     
-    @Override
-    public Hardware get() {
-        
-    Cpu cpu = _hardware.getCpu();
-    
-    cpu.setCpuUsage(cpu.getCentralProcessor().getSystemCpuLoadBetweenTicks());
-    
-    _hardware.setCpu(cpu);
-    
-    return _hardware;
+    return _cpu;
     }
 }

@@ -2,7 +2,7 @@ package App.Models;
 
 import oshi.hardware.CentralProcessor;
 
-public class Cpu {
+public class Cpu{
     private double cpuUsage;
     private CentralProcessor centralProcessor;
     

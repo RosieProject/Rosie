@@ -4,22 +4,24 @@ import App.Commons.ControllerCommon;
 import App.Handler.ComputerHardwareHandler;
 import App.Handler.Get.GetCPUData;
 import App.Models.Cpu;
-import App.Models.Hardware;
 import oshi.hardware.CentralProcessor;
 
+import java.io.Serializable;
+
 public class CpuController extends ControllerCommon{
-    private Hardware _hardware;
     private Cpu _cpu;
 
-    @Override
-    public Hardware getHandler() {
-        CentralProcessor centralProcessor = new ComputerHardwareHandler().getCentralProcessor();
-        _cpu.setCentralProcessor(centralProcessor);
-        _hardware.setCpu(_cpu);
+    public CpuController(Cpu cpu)
+    {
+        _cpu = cpu;
+    }
+
+    public Cpu getHandler() {
+        _cpu.setCentralProcessor(new ComputerHardwareHandler().getCentralProcessor());
         
-        _hardware = new GetCPUData(_hardware).get();
+        _cpu = new GetCPUData(_cpu).get();
         
-        return _hardware;   
+        return _cpu;
     }
 
     @Override
