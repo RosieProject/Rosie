@@ -3,10 +3,14 @@ package App.Controller;
 import App.Commons.ControllerCommon;
 import App.Handler.ComputerHardwareHandler;
 import App.Handler.Get.GetCPUData;
+import App.Handler.Send.SendCPUData;
 import App.Models.Cpu;
+import Infrastructure.MicrosoftJDBC.AzureDatabaseConnection;
 import oshi.hardware.CentralProcessor;
 
+import javax.sql.DataSource;
 import java.io.Serializable;
+import java.sql.Connection;
 
 public class CpuController extends ControllerCommon{
     private Cpu _cpu;
@@ -25,12 +29,9 @@ public class CpuController extends ControllerCommon{
     }
 
     @Override
-    public void sendHandler() {
-        
+    public void sendHandler(DataSource dataSource) {
+        new SendCPUData(_cpu, dataSource).Send();
     }
-    
-    
-
 }
 
 

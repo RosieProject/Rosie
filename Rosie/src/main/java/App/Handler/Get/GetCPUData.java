@@ -13,7 +13,7 @@ public class GetCPUData extends GetDataCommon{
 
     public Cpu get() {
 
-    _cpu.setCpuUsage(_cpu.getCentralProcessor().getSystemCpuLoadBetweenTicks());
+    _cpu.setCpuUsage(_cpu.getCentralProcessor().getSystemCpuLoad() * 100);
     
     return _cpu;
     }

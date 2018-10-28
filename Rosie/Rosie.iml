@@ -76,5 +76,8 @@
     <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.17.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.17.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.17.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.microsoft.sqlserver:mssql-jdbc:7.0.0.jre8" level="project" />
+    <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.5.4" level="project" />
   </component>
 </module>

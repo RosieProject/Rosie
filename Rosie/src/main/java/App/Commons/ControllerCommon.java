@@ -1,6 +1,7 @@
 package App.Commons;
 
+import javax.sql.DataSource;
+
 public abstract class ControllerCommon {
-    //public abstract Hardware getHandler();
-    public abstract void sendHandler();
+    public abstract void sendHandler(DataSource dataSource);
 }
