@@ -13,13 +13,17 @@ public class Startup {
     public static void main(String[] args) throws InterruptedException, SQLException {
         final Cpu cpu = new Cpu();
         final CpuController cpuController = new CpuController(cpu);
+        final
         DataSource dataSource = new AzureDatabaseConnection().getDataSource();
-while(true){
-    Thread.sleep(2500);
+
+        while(true){
+            Thread.sleep(2500);
 
             System.out.print(String.format("\n Cpu Usage: %.2f%%", cpuController.getHandler().getCpuUsage()));
+            System.out.print(String.format("\n Memory Usage: %.2f%%", cpuController.getHandler().getCpuUsage()));
             cpuController.sendHandler(dataSource);
-}
+        }
+
         /*GoogleCredentials credentialsGoogle = new CredentialsGoogle().getGoogleCredentials();
         FirebaseOptions firebaseOptions = new Options(credentialsGoogle).getFirebaseOptions();
         CloudFirestoreFirebase firebaseCloudDatabase = new CloudFirestoreFirebase(credentialsGoogle, firebaseOptions);*/

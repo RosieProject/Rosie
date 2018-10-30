@@ -1,7 +1,7 @@
 package App.Commons;
 
-public abstract class SendDataCommon{
+public interface SendDataCommon{
 
-    public abstract void Send();
+    void Send();
     
 }   

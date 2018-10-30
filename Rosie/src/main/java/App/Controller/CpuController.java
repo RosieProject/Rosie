@@ -5,14 +5,10 @@ import App.Handler.ComputerHardwareHandler;
 import App.Handler.Get.GetCPUData;
 import App.Handler.Send.SendCPUData;
 import App.Models.Cpu;
-import Infrastructure.MicrosoftJDBC.AzureDatabaseConnection;
-import oshi.hardware.CentralProcessor;
 
 import javax.sql.DataSource;
-import java.io.Serializable;
-import java.sql.Connection;
 
-public class CpuController extends ControllerCommon{
+public class CpuController implements ControllerCommon{
     private Cpu _cpu;
 
     public CpuController(Cpu cpu)
