@@ -16,6 +16,7 @@ public class CpuController implements ControllerCommon{
         _cpu = cpu;
     }
 
+    @Override
     public Cpu getHandler() {
         _cpu.setCentralProcessor(new ComputerHardwareHandler().getCentralProcessor());
         

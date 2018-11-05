@@ -17,7 +17,7 @@ public class MemoryController implements ControllerCommon {
     }
 
     @Override
-    public Hardware getHandler() {
+    public Memory getHandler() {
         _memory.setGlobalMemory(new ComputerHardwareHandler().getGlobalMemory());
 
         _memory = new GetMemoryData(_memory).get();

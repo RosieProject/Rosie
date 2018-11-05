@@ -18,9 +18,10 @@ public class SendCPUData implements SendDataCommon{
         _cpu = cpu;
         _dataSource = dataSource;
     }
-
+    
+    @Override
     public void Send(){
-        String update = new HardwareDataRepository().getInsertCpuQuery(_cpu.getCpuUsage());
+        String update = new HardwareDataRepository().getInsertCpuUpdate(_cpu.getCpuUsage());
 
         try {
             connection = _dataSource.getConnection();
