@@ -1,27 +1,28 @@
 package App.Handler.Send;
 
 import App.Commons.SendDataCommon;
-import App.Models.Cpu;
+import App.Models.Disk;
 import Infrastructure.MicrosoftJDBC.Repositories.HardwareDataRepository;
-
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
 import javax.sql.DataSource;
-import java.sql.*;
 
-public class SendCPUData implements SendDataCommon{
-    final private Cpu _cpu;
+public class SendDiskData implements SendDataCommon{
+    final private Disk _disk;
     private DataSource _dataSource;
     private Connection connection;
-
-    public SendCPUData(Cpu cpu,
+    
+    public SendDiskData(Disk disk,
         DataSource dataSource)
     {
-        _cpu = cpu;
+        _disk = disk;
         _dataSource = dataSource;
     }
-    
+
     @Override
-    public void Send(){
-        String update = new HardwareDataRepository().getInsertCpuUpdate(_cpu.getCpuUsage());
+    public void Send() {
+        String update = new HardwareDataRepository().getInsertDiskUpdate(_disk.getDiskUsage());
 
         try {
             connection = _dataSource.getConnection();
@@ -37,4 +38,5 @@ public class SendCPUData implements SendDataCommon{
             }
         }
     }
+    
 }

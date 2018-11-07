@@ -1,5 +1,7 @@
 package App.Commons;
 
-public abstract class GetDataCommon {
-    //public abstract void get();
+import App.Models.Hardware;
+
+public interface GetDataCommon {
+    Hardware get();
 }

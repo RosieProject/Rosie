@@ -1,27 +1,27 @@
 package App.Handler.Send;
 
 import App.Commons.SendDataCommon;
-import App.Models.Cpu;
+import App.Models.Memory;
 import Infrastructure.MicrosoftJDBC.Repositories.HardwareDataRepository;
 
 import javax.sql.DataSource;
 import java.sql.*;
 
-public class SendCPUData implements SendDataCommon{
-    final private Cpu _cpu;
+public class SendMemoryData implements SendDataCommon {
+    final private Memory _memory;
     private DataSource _dataSource;
     private Connection connection;
 
-    public SendCPUData(Cpu cpu,
-        DataSource dataSource)
+    public SendMemoryData(Memory memory,
+                       DataSource dataSource)
     {
-        _cpu = cpu;
+        _memory = memory;
         _dataSource = dataSource;
     }
-    
+
     @Override
-    public void Send(){
-        String update = new HardwareDataRepository().getInsertCpuUpdate(_cpu.getCpuUsage());
+    public void Send() {
+        String update = new HardwareDataRepository().getInsertMemoryUpdate(_memory.getMemoryUsage());
 
         try {
             connection = _dataSource.getConnection();

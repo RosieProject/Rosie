@@ -1,13 +1,10 @@
 package Infrastructure.MicrosoftJDBC;
 
-
 import org.apache.commons.dbcp.BasicDataSource;
 
 import javax.sql.DataSource;
-import java.sql.Connection;
 
 public class AzureDatabaseConnection {
-    private Connection connection;
     final static private String URL =  "jdbc:sqlserver://rosienoc.database.windows.net:1433;database=rosiedb;user=rosieadmin@rosienoc;password=@PI2rosie;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
 
 
@@ -16,7 +13,6 @@ public class AzureDatabaseConnection {
             BasicDataSource ds = new BasicDataSource();
             try {
                 ds.setUrl(URL);
-
                 ds.setMinIdle(5);
                 ds.setMaxIdle(10);
                 ds.setMaxOpenPreparedStatements(15);
