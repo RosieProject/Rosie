@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e56963f-e3cf-4682-936a-7871d433fbea" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1675774523">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="35" />
+          <entry key="java" value="5350" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5350" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Startup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendMemoryData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendCpuData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendDiskData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/SendHardwareDataHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Application/DAO/HardwareDatabaseRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="103" lean-forward="true" selection-start-line="19" selection-start-column="103" selection-end-line="19" selection-end-column="103" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fileStore</find>
+      <find>I</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>fileStore</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Startup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Models/Memory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Models/Disk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/GetHardwareData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Interfaces/IGetData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/GetCpuData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/GetDiskData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/GetHardwareData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/ComputerInformation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/GetMemoryData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Get/GetMemoryData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Get/GetHardwareData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Models/Cpu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Interfaces/ISendData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/DAO/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Helper/DateFormater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/DAO/HardwareDatabaseRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendHardwareData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Startup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/SendHardwareDataHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendCpuData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendMemoryData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendDiskData.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="477" />
+    <option name="width" value="1388" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="Get" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosieGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="Send" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RosieGroup" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RosieGroup" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RosieGroup" type="616d4139:PackageViewModuleNode" />
+              <item name="Application" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RosieGroup" type="616d4139:PackageViewModuleNode" />
+              <item name="Application" type="1f31426a:PackageElementNode" />
+              <item name="Handlers" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="RosieGroup" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RosieGroup" type="616d4139:PackageViewModuleNode" />
+              <item name="Application" type="1f31426a:PackageElementNode" />
+              <item name="Handlers" type="1f31426a:PackageElementNode" />
+              <item name="Get" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541990597051" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Application.Handlers.Get" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Application.Handlers.Send" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application.Startup" />
+      <module name="RosieGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Application.Handlers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Startup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e56963f-e3cf-4682-936a-7871d433fbea" name="Default Changelist" comment="" />
+      <created>1541972076000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541972076000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="477" y="0" width="1388" height="1087" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18222892" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32948583" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Startup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Models/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Models/Disk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="method#Disk#0;class#Disk#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/ComputerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Get/GetCpuData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Get/GetMemoryData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Models/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Interfaces/IGetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Interfaces/ISendData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Helper/DateFormater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="92" lean-forward="true" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/DAO/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/GetHardwareDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/DAO/HardwareDatabaseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="103" lean-forward="true" selection-start-line="19" selection-start-column="103" selection-end-line="19" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Startup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Get/GetDiskData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/SendHardwareDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendCpuData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendMemoryData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application/Handlers/Send/SendDiskData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
