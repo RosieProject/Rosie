@@ -4,44 +4,34 @@ package Application.Models;
 import Application.ComputerInformation;
 import oshi.software.os.OperatingSystem;
 
-
 public class Computer {
+    private static Computer ourInstance = new Computer();
     
     private static OperatingSystem operatingSystem;
-    private static int bitness;
-    private static String family;
+    private static int osBitness;
+    private static String osFamily;
 
     public static int getBitness() {
-        return bitness;
+        return osBitness;
     }
 
     public static void setBitness(int bitness) {
-        Computer.bitness = bitness;
+        osBitness = bitness;
     }
 
     public static String getFamily() {
-        return family;
+        return osFamily;
     }
 
     public static void setFamily(String family) {
-        Computer.family = family;
+        osFamily = family;
     }
 
     public static OperatingSystem getOperatingSystem() {
         return operatingSystem;
     }
-
-    public static void setOperatingSystem(OperatingSystem ooperatingSystem) {
-        operatingSystem = ooperatingSystem;
-    }
     
     private Computer() {
         operatingSystem = new ComputerInformation().getOperatingSystem();
-    }
-    
-    private static class ComputerHolder {
-
-        private static final Computer INSTANCE = new Computer();
-        
     }
 }

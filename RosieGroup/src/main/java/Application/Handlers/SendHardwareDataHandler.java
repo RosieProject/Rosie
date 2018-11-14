@@ -1,8 +1,10 @@
 package Application.Handlers;
 
+import Application.Handlers.Send.SendComputerData;
 import Application.Handlers.Send.SendCpuData;
 import Application.Handlers.Send.SendDiskData;
 import Application.Handlers.Send.SendMemoryData;
+import Application.Models.Computer;
 
 public class SendHardwareDataHandler {
 
@@ -10,7 +12,10 @@ public class SendHardwareDataHandler {
         sendOshiCpuData();
         sendOshiMemoryData();
         sendOshiDiskData();
-        sendOshiComputerData();
+
+        if(Computer.getFamily() == null) {
+            sendOshiComputerData();
+        }
     }
 
     public void sendOshiCpuData(){

@@ -1,17 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Application.Handlers.Send;
 
+import Application.DAO.DatabaseConnection;
+import Application.DAO.HardwareDatabaseRepository;
 import Application.Interfaces.ISendData;
-import java.sql.SQLException;
+import Application.Models.Computer;
+import Application.Models.Cpu;
 
-/**
- *
- * @author andre
- */
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 public class SendComputerData implements ISendData {
     
     public SendComputerData(){
@@ -24,8 +22,20 @@ public class SendComputerData implements ISendData {
 
     @Override
     public void SendData() throws SQLException {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        String update = new HardwareDatabaseRepository().insertOSUpdate(Computer.getBitness(), Computer.getFamily());
+
+        Connection connection = DatabaseConnection.getConnection();
+        try {
+            Statement statement = connection.createStatement();
+            statement.executeUpdate(update);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }finally {
+            try {
+                connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
     }
-    
-    
 }
