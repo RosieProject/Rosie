@@ -14,5 +14,7 @@ public class GetCpuData implements IGetData {
 
     public void GetData(){
         Cpu.setCpuUsage(centralProcessor.getSystemCpuLoadBetweenTicks());
+        Cpu.setCpuName(centralProcessor.getName());
+        
     }
 }

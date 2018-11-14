@@ -17,6 +17,7 @@ public class Startup {
             System.out.println(Cpu.getCpuUsage());
             System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
             System.out.println(Disk.getDiskTotal() - Disk.getDiskAvailable());
+            System.out.println(Cpu.getCpuName());
         }
 
     }

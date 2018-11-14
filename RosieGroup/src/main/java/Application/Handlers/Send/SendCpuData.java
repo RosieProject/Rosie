@@ -20,7 +20,7 @@ public class SendCpuData implements ISendData {
     }
 
     public void SendData() throws SQLException {
-        String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage());
+        String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage(), Cpu.getCpuName());
 
         Connection connection = DatabaseConnection.getConnection();
         try {

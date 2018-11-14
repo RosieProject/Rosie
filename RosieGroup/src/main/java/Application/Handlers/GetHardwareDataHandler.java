@@ -10,6 +10,9 @@ public class GetHardwareDataHandler {
         getOshiCpuData();
         getOshiMemory();
         getOshiDiskData();
+        getComputerData();
+        
+        
     }
 
     public void getOshiCpuData(){
@@ -22,5 +25,8 @@ public class GetHardwareDataHandler {
 
     public void getOshiDiskData(){
         new GetDiskData();
+    }
+    public void getComputerData(){
+        new GetComputerData();
     }
 }

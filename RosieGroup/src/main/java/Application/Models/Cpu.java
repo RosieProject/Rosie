@@ -8,6 +8,15 @@ public class Cpu {
 
     private static CentralProcessor centralProcessor;
     private static double cpuUsage;
+    private static String cpuName;
+
+    public static String getCpuName() {
+        return cpuName;
+    }
+
+    public static void setCpuName(String name) {
+        cpuName = name;
+    }
 
     public static Cpu getInstance() {
         return ourInstance;
@@ -28,4 +37,6 @@ public class Cpu {
     private Cpu() {
         centralProcessor = new ComputerInformation().getCentralProcessor();
     }
+    
+    
 }

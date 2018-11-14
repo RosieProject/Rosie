@@ -10,14 +10,15 @@ public class HardwareDatabaseRepository {
     private static HardwareDatabaseRepository ourInstance = new HardwareDatabaseRepository();
     private static DateFormat _dateFormat;
     private static Date _date;
+    private static final int TESTEPC = 4;
 
     public HardwareDatabaseRepository() {
         _dateFormat = DateFormater.dateformat;
         _date = new DateFormater().getDate();
     }
 
-    public String insertCpuUpdate(double data) {
-        return String.format(Locale.US, "INSERT INTO CpuData (Usage_Cpu, Horario) VALUES (%f,'%s')", data, _dateFormat.format(_date));
+    public String insertCpuUpdate(double data, String nome) {
+        return String.format(Locale.US, "INSERT INTO CpuData (Usage_Cpu, Horario,ID_PC, Name_CPU ) VALUES (%f,'%s', %d, '%s')", data, _dateFormat.format(_date), TESTEPC, nome );
     }
 
     public String insertMemoryUpdate(long data) {

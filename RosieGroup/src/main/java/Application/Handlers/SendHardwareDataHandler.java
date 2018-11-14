@@ -10,6 +10,7 @@ public class SendHardwareDataHandler {
         sendOshiCpuData();
         sendOshiMemoryData();
         sendOshiDiskData();
+        sendOshiComputerData();
     }
 
     public void sendOshiCpuData(){
@@ -22,5 +23,9 @@ public class SendHardwareDataHandler {
 
     public void sendOshiDiskData(){
         new SendDiskData();
+    }
+    
+    public void sendOshiComputerData(){
+       new SendComputerData();
     }
 }
