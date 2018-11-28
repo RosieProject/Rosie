@@ -10,11 +10,18 @@ public class GetCpuData implements IGetData {
     public GetCpuData(){
         centralProcessor = Cpu.getCentralProcessor();
         GetData();
+        
     }
 
     public void GetData(){
         Cpu.setCpuUsage(centralProcessor.getSystemCpuLoadBetweenTicks());
         Cpu.setCpuName(centralProcessor.getName());
+        
+        Cpu.setProcessadoresLogicos(centralProcessor.getLogicalProcessorCount());
+        Cpu.setProcessadoresFisicos(centralProcessor.getPhysicalProcessorCount());
+        Cpu.setInterrupts(centralProcessor.getInterrupts());
+        Cpu.setSystemUpTime(centralProcessor.getSystemUptime());
+        
         
     }
 }
