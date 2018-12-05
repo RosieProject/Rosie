@@ -63,6 +63,23 @@ public class TelaLoginController implements Initializable {
             @Override
             public void handle(ActionEvent event) {
                 System.out.println("COLA AQUI");
+                
+                 System.out.println(lblLogin.toString());
+                
+            }
+        });
+        
+        btnAindaNaoECadastrado.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                System.out.println("COLA AQUI");
+            }
+        });
+        
+        btnEsqueceuASenha.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                System.out.println("COLA AQUI");
             }
         });
         
