@@ -37,7 +37,7 @@ public class Startup extends Application {
                 launch(args); 
       
               
-      /*
+      
         
         while (true) {
             Thread.sleep(5000);
@@ -48,7 +48,7 @@ public class Startup extends Application {
             System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
             System.out.println(Disk.getDiskTotal() - Disk.getDiskAvailable());
         }
-*/
+
     }
     
 

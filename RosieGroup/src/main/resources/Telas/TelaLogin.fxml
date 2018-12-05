@@ -17,7 +17,6 @@
          </image>
       </ImageView>
       <JFXButton fx:id="btnEntrar" layoutX="462.0" layoutY="253.0" style="-fx-background-color: #127486;" onAction="#handleButtonAction" text="Entrar" textFill="#181a1c" />
-      <JFXButton fx:id="btnAindaNaoECadastrado" layoutX="486.0" layoutY="308.0" text="Ainda não é cadastrado ?" textFill="#2f7579" />
       <JFXTextField fx:id="lblLogin" focusColor="#127486" layoutX="401.0" layoutY="122.0" maxWidth="202.0" minWidth="173.0" prefHeight="31.0" prefWidth="202.0" promptText="Login">
          <font>
             <Font size="16.0" />
@@ -33,7 +32,6 @@
             <Image url="@Cadeado.png" />
          </image>
       </ImageView>
-      <JFXButton fx:id="btnEsqueceuASenha" layoutX="367.0" layoutY="308.0" text="Esqueceu a senha ?" textFill="#2f7579" />
       <Line endX="1.0" endY="89.0" layoutX="350.0" layoutY="176.0" startX="1.0" startY="-94.0" stroke="#127486" />
       <JFXPasswordField fx:id="lblSenha" focusColor="#127486" layoutX="401.0" layoutY="174.0" maxWidth="202.0" minWidth="173.0" prefHeight="31.0" prefWidth="202.0" promptText="Senha">
          <font>
