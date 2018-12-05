@@ -6,6 +6,10 @@ import Application.Models.Cpu;
 import Application.Models.Disk;
 import Application.Models.Memory;
 import javafx.application.Application;
+import static javafx.application.Application.launch;
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -21,10 +25,19 @@ public class Startup extends Application {
         
         stage.setScene(scene);
         stage.show();
+        
+        
+        
+        
     }
     
-    public static void main(String[] args) throws InterruptedException {
-        launch(args);
+    public static void main(String[] args) throws InterruptedException  {
+        
+        
+                launch(args); 
+      
+              
+      /*
         
         while (true) {
             Thread.sleep(5000);
@@ -35,6 +48,7 @@ public class Startup extends Application {
             System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
             System.out.println(Disk.getDiskTotal() - Disk.getDiskAvailable());
         }
+*/
     }
     
 
