@@ -64,7 +64,7 @@ public class TelaLoginController implements Initializable {
             public void handle(ActionEvent event) {
                 System.out.println("COLA AQUI");
                 
-                 System.out.println(lblLogin.toString());
+                 System.out.println(lblLogin.getText() + lblSenha.getText());
                 
             }
         });
