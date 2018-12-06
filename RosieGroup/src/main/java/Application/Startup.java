@@ -7,14 +7,14 @@ import Application.Models.Cpu;
 import Application.Models.Disk;
 import Application.Models.Memory;
 import Application.Models.Sensors;
+import Application.Helper.GetLog;
 
 public class Startup {
     public static void main(String[] args) throws InterruptedException {
-
         while (true) {
             Thread.sleep(3000);
             new GetHardwareDataHandler();
-            new SendHardwareDataHandler();
+            //new SendHardwareDataHandler();
 
             //System.out.println(Cpu.getCpuUsage());
             //System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
@@ -41,7 +41,9 @@ public class Startup {
             //System.out.println(Computer.getIpv6());
             //System.out.println(Computer.getDomainName());
             //System.out.println(Computer.getHostName());
-            System.out.println(Computer.logResponse());
+            GetLog log = new GetLog();
+            System.out.print(log.getLog());
+
             
             
             

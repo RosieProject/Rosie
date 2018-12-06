@@ -59,6 +59,7 @@ public class Computer {
     }
     public static void setNetworkParams(String networkParams) {
         Computer.networkParams = networkParams;
+        // Não esta retornando certo
     }
    
 
@@ -134,7 +135,7 @@ public class Computer {
         operatingSystem = new ComputerInformation().getOperatingSystem();
     }
 
-    public static String logResponse() {
+    public static String ComputerLogResponse() {
         return "Computer information:" + System.getProperty("line.separator") +
                 "Family:" +getFamily() + System.getProperty("line.separator") +
                 "Manufacturer:" +getManufacturer()+ System.getProperty("line.separator") +
@@ -143,8 +144,7 @@ public class Computer {
                 "Bitness:" +getBitness()+ System.getProperty("line.separator")+
                 "OperatingSystem:" +getOperatingSystem()+ System.getProperty("line.separator")+
                 "ProcessCount:" +getProcessCount()+ System.getProperty("line.separator")+
-                "ThreadCount:" +getThreadCount()+ System.getProperty("line.separator")
-                ;
+                "ThreadCount:" +getThreadCount()+ System.getProperty("line.separator") + System.getProperty("line.separator");
     }
     
     

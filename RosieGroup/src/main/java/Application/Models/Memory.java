@@ -49,4 +49,11 @@ public class Memory {
     private Memory() {
         globalMemory = new ComputerInformation().getGlobalMemory();
     }
+    
+    public static String memoryLogResponse(){
+        return "Memory information:" + System.getProperty("line.separator") +
+                "MemoryAvailable:" +getMemoryAvailable()+ System.getProperty("line.separator") +
+                "MemoryTotal:" +getMemoryTotal()+ System.getProperty("line.separator") +
+                "PageSize:" +getPageSize()+ System.getProperty("line.separator") + System.getProperty("line.separator");     
+    }
 }
