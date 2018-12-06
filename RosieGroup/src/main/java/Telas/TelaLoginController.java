@@ -5,6 +5,7 @@
  */
 package Telas;
 
+import Application.DAO.DatabaseConnection;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXPasswordField;
 import com.jfoenix.controls.JFXTextField;
@@ -21,6 +22,12 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 /**
  * FXML Controller class
  *
@@ -64,9 +71,8 @@ public class TelaLoginController implements Initializable {
         btnEntrar.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("COLA AQUI");
                 
-                 System.out.println(lblLogin.getText() + lblSenha.getText());
+                // System.out.println(lblLogin.getText() + lblSenha.getText());
                          
 
                Criptografia();
@@ -96,6 +102,7 @@ public class TelaLoginController implements Initializable {
 
 
         System.out.println(hashString);
+        ValidaSenha(hashString);
 
     }
 
@@ -119,14 +126,57 @@ public class TelaLoginController implements Initializable {
 
     hexString.append(hex);
 
-    }
+     }
+        
 
     return hexString.toString(); 
 
     }
 
 
-         
-         
+         public boolean ValidaSenha(String hashString){
+             
+        String select = "select senha_usuario from usuario where email_usuario = ?";
+
+        Connection connection = null;
+        try {
+            connection = DatabaseConnection.getConnection();
+        } catch (SQLException ex) {
+            Logger.getLogger(TelaLoginController.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        try {
             
-}
+            
+            PreparedStatement preparedStatement = connection.prepareStatement(select);
+            preparedStatement.setString(1, lblLogin.getText().toString());
+            ResultSet resultSet = preparedStatement.executeQuery(select);
+            if(resultSet.next()){
+                String userPassword = resultSet.getString("Senha_Usuario");
+                if(userPassword == hashString){
+                    //FAZ COISAS SE FOR IGUAL
+                    return true;
+                }else{
+                    //FAZ COISAS SE NÃO FOR IGUAL
+                    return false;
+                }
+            }
+            
+            
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }finally {
+            try {
+                connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        } 
+             
+             
+             
+         
+       
+            
+    }
+
+       
