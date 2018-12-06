@@ -36,11 +36,12 @@ public class Startup {
             //System.out.println(Sensors.getCpuTemperature());
             //System.out.println(Sensors.getCpuVoltage());
             //System.out.println(Sensors.getFanSpeed());
-            System.out.println(Computer.getIpv4());
-            System.out.println(Computer.getIpv6());
-            System.out.println(Computer.getDomainName());
-            System.out.println(Computer.getHostName());
-            
+            //------------------------------------------------
+            //System.out.println(Computer.getIpv4());
+            //System.out.println(Computer.getIpv6());
+            //System.out.println(Computer.getDomainName());
+            //System.out.println(Computer.getHostName());
+            System.out.println(Computer.logResponse());
             
             
             

@@ -114,7 +114,7 @@ public class Computer {
         return operatingSystem;
     }
 
-    public static void getIpv4(String ipv4DefaultGateway) {
+    /*public static void getIpv4(String ipv4DefaultGateway) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
@@ -128,9 +128,24 @@ public class Computer {
 
     public static void getHostName(String hostName) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+    }*/
     
     private Computer() {
         operatingSystem = new ComputerInformation().getOperatingSystem();
     }
+
+    public static String logResponse() {
+        return "Computer information:" + System.getProperty("line.separator") +
+                "Family:" +getFamily() + System.getProperty("line.separator") +
+                "Manufacturer:" +getManufacturer()+ System.getProperty("line.separator") +
+                "NetworkParams:" +getNetworkParams()+ System.getProperty("line.separator") +
+                "Version:" +getVersion()+ System.getProperty("line.separator")+
+                "Bitness:" +getBitness()+ System.getProperty("line.separator")+
+                "OperatingSystem:" +getOperatingSystem()+ System.getProperty("line.separator")+
+                "ProcessCount:" +getProcessCount()+ System.getProperty("line.separator")+
+                "ThreadCount:" +getThreadCount()+ System.getProperty("line.separator")
+                ;
+    }
+    
+    
 }
