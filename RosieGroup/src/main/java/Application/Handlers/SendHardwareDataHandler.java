@@ -32,6 +32,6 @@ public class SendHardwareDataHandler {
     }
     
     public void sendOshiComputerData(){
-       new SendComputerData();
+       new SendComputerData(idPc);
     }
 }

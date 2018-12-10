@@ -21,7 +21,10 @@ public class SendDiskData implements ISendData {
     }
 
     public void SendData(int idPc) throws SQLException {
-        String update = new HardwareDatabaseRepository().insertDiskUpdate(Disk.getDiskTotal() - Disk.getDiskAvailable());
+        String update = new HardwareDatabaseRepository().insertDiskUpdate(
+                idPc,
+                Disk.getDiskTotal(),
+                Disk.getDiskAvailable());
 
         Connection connection = DatabaseConnection.getConnection();
         try {

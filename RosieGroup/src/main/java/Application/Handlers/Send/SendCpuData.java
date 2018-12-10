@@ -20,13 +20,14 @@ public class SendCpuData implements ISendData {
         }
     }
 
-<<<<<<< Updated upstream
-    public void SendData() throws SQLException {
-        String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage(), Cpu.getCpuName());
-=======
     public void SendData(int idPc) throws SQLException {
-        String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage());
->>>>>>> Stashed changes
+        String update = new HardwareDatabaseRepository().insertCpuUpdate(
+                idPc,
+                Cpu.getCpuName(),
+                Cpu.getCpuUsage(),
+                Cpu.getSystemUpTime(),
+                Cpu.getProcessadoresLogicos(),
+                Cpu.getProcessadoresFisicos());
 
         Connection connection = DatabaseConnection.getConnection();
         try {

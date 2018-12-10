@@ -11,18 +11,26 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class SendComputerData implements ISendData {
-    
-    public SendComputerData(){
+    private int idPc;
+    public SendComputerData(int idPc){
+        this.idPc = idPc;
         try{
-            SendData();
+            SendData(idPc);
         }catch (Exception e){
             e.printStackTrace();
         }
     }
 
     @Override
-    public void SendData() throws SQLException {
-        String update = new HardwareDatabaseRepository().insertOSUpdate(Computer.getBitness(), Computer.getFamily());
+    public void SendData(int idPc) throws SQLException {
+        String update = new HardwareDatabaseRepository().insertOSUpdate(
+                idPc,
+                Computer.getFamily(),
+                Computer.getBitness(),
+                Computer.getVersion(),
+                Computer.getProcessCount(),
+                Computer.getThreadCount(),
+                Computer.getManufacturer());
 
         Connection connection = DatabaseConnection.getConnection();
         try {
