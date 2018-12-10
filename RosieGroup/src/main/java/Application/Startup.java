@@ -2,19 +2,27 @@ package Application;
 
 import Application.Handlers.GetHardwareDataHandler;
 import Application.Handlers.SendHardwareDataHandler;
-import Application.Models.Computer;
+/*import Application.Models.Computer;
 import Application.Models.Cpu;
 import Application.Models.Disk;
 import Application.Models.Memory;
 import Application.Models.Sensors;
+import Application.Helper.GetLog;*/
+//-----------------------------
+
 import Application.Helper.GetLog;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
 
 public class Startup {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, IOException {
         while (true) {
-            Thread.sleep(3000);
+            Thread.sleep(5000);
             new GetHardwareDataHandler();
-            //new SendHardwareDataHandler();
+            new SendHardwareDataHandler();
 
             //System.out.println(Cpu.getCpuUsage());
             //System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
@@ -41,14 +49,22 @@ public class Startup {
             //System.out.println(Computer.getIpv6());
             //System.out.println(Computer.getDomainName());
             //System.out.println(Computer.getHostName());
-            GetLog log = new GetLog();
-            System.out.print(log.getLog());
-
+           
+             /*File file = new File("ArquivoLog");
+             file.mkdir();*/
+             
+             GetLog log = new GetLog();
             
-            
-            
-            
+    
+             File logArquivo = new File("logArquivo.txt");
+             logArquivo.createNewFile();
+              
+              try (FileWriter fileWriter = new FileWriter(logArquivo, true); 
+              BufferedWriter escrever = new BufferedWriter(fileWriter)) {
+              escrever.write(log.getLog());  
+              }catch(IOException ex){
+              }
+            //System.out.print(log.getLog());
         }
-
     }
 }
