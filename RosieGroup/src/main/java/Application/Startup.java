@@ -31,15 +31,20 @@ public class Startup extends Application {
         
     }
     
+    public void end () throws Exception{
+        
+    }
+    
     public static void main(String[] args) throws InterruptedException  {
         
         
-                launch(args); 
-      
-              
-      
+        launch(args); 
         
-        while (true) {
+        
+        
+        //System.out.println("teste 2");
+      
+        //while (true) {
             Thread.sleep(5000);
             new GetHardwareDataHandler();
             new SendHardwareDataHandler();
@@ -47,7 +52,11 @@ public class Startup extends Application {
             System.out.println(Cpu.getCpuUsage());
             System.out.println(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
             System.out.println(Disk.getDiskTotal() - Disk.getDiskAvailable());
-        }
+        //}
+        
+      
+        
+        
 
     }
     
