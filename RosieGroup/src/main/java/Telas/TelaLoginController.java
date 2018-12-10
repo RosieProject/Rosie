@@ -96,14 +96,12 @@ public class TelaLoginController implements Initializable {
             @Override
             public void handle(ActionEvent event) {
 
-                // System.out.println(lblLogin.getText() + lblSenha.getText());
-                System.out.println("pre teste");
-                //Criptografia();
-                System.out.println("teste 1");
-                String original = lblSenha.getText();
-                String login = lblLogin.getText();
-
-                if (original.equals("1234") && login.equals("root")) {
+                //System.out.println(lblLogin.getText() + lblSenha.getText());
+               
+               // String original = lblSenha.getText();
+                //String login = lblLogin.getText();
+                Criptografia();
+                /*if (original.equals("1234") && login.equals("root")) {
                     abrirProximaTela();
                 } else {
                     Alert alert = new Alert(Alert.AlertType.ERROR);
@@ -112,7 +110,7 @@ public class TelaLoginController implements Initializable {
                     alert.setContentText("Login ou senha invalida, certifique-se de que esta digitando corretamente");
                     alert.show();
                 }
-
+*/
                 /*try {
                     String hashString = gerarSha256(original);
                     if (ValidaSenha(hashString) == true){
@@ -175,7 +173,7 @@ public class TelaLoginController implements Initializable {
 
     }
 
-    public boolean ValidaSenha(String hashString) {
+    public void ValidaSenha(String hashString) {
 
         String select = "select senha_usuario from usuario where email_usuario = ?";
 
@@ -189,26 +187,30 @@ public class TelaLoginController implements Initializable {
 
             PreparedStatement preparedStatement = connection.prepareStatement(select);
             preparedStatement.setString(1, lblLogin.getText().toString());
-            ResultSet resultSet = preparedStatement.executeQuery(select);
+            ResultSet resultSet = preparedStatement.executeQuery();
             if (resultSet.next()) {
                 String userPassword = resultSet.getString("Senha_Usuario");
-                if (userPassword == hashString) {
+                if (userPassword.equals(hashString)) {
                     //FAZ COISAS SE FOR IGUAL
-                    return true;
+                    System.out.println("igual");
+                   // return true;
                 } else {
                     //FAZ COISAS SE NÃO FOR IGUAL
-                    return false;
+                    System.out.println("diferente");
+                   // return false;
                 }
-            }
+            } 
 
         } catch (SQLException e) {
             e.printStackTrace();
-        } finally {
+            System.out.println("to aqui");
+        } /*finally {
             try {
                 connection.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
-        }
+        }*/
 
     }
+}
