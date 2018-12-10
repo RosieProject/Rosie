@@ -10,17 +10,23 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class SendCpuData implements ISendData {
-
-    public SendCpuData(){
+    private int idPc;
+    public SendCpuData(int idPc){
+        this.idPc = idPc;
         try{
-            SendData();
+            SendData(idPc);
         }catch (Exception e){
             e.printStackTrace();
         }
     }
 
+<<<<<<< Updated upstream
     public void SendData() throws SQLException {
         String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage(), Cpu.getCpuName());
+=======
+    public void SendData(int idPc) throws SQLException {
+        String update = new HardwareDatabaseRepository().insertCpuUpdate(Cpu.getCpuUsage());
+>>>>>>> Stashed changes
 
         Connection connection = DatabaseConnection.getConnection();
         try {

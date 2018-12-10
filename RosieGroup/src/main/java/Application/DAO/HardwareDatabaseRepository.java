@@ -26,11 +26,18 @@ public class HardwareDatabaseRepository {
                 nome );
     }
 
+<<<<<<< Updated upstream
     public String insertMemoryUpdate(long data) {
         return String.format(Locale.US, "INSERT INTO MemoryData (Usage_Memoria, Horario) " +
                         "VALUES (%d,'%s')",
                 data,
                 _dateFormat.format(_date));
+=======
+    public String insertMemoryUpdate(int idPc, long total, long usable) {
+                return String.format(Locale.US, "INSERT INTO MemoryData "
+                + "(ID_PC, Total_Memory, Usable_Memory, Horario) VALUES\n" +
+                "((%s, %s, %s, %s))", 2, total, usable, _dateFormat.format(_date));
+>>>>>>> Stashed changes
     }
 
     public String insertDiskUpdate(long data) {
