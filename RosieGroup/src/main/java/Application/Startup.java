@@ -2,17 +2,25 @@ package Application;
 
 import Application.Handlers.GetHardwareDataHandler;
 import Application.Handlers.SendHardwareDataHandler;
-import Application.Models.Computer;
+/*import Application.Models.Computer;
 import Application.Models.Cpu;
 import Application.Models.Disk;
 import Application.Models.Memory;
 import Application.Models.Sensors;
+import Application.Helper.GetLog;*/
+//-----------------------------
+
+import Application.Helper.GetLog;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
 
 public class Startup {
-    public static void main(String[] args) throws InterruptedException {
-
+    public static void main(String[] args) throws InterruptedException, IOException {
         while (true) {
-            Thread.sleep(3000);
+            Thread.sleep(5000);
             new GetHardwareDataHandler();
             new SendHardwareDataHandler();
 
@@ -36,16 +44,27 @@ public class Startup {
             //System.out.println(Sensors.getCpuTemperature());
             //System.out.println(Sensors.getCpuVoltage());
             //System.out.println(Sensors.getFanSpeed());
-            System.out.println(Computer.getIpv4());
-            System.out.println(Computer.getIpv6());
-            System.out.println(Computer.getDomainName());
-            System.out.println(Computer.getHostName());
+            //------------------------------------------------
+            //System.out.println(Computer.getIpv4());
+            //System.out.println(Computer.getIpv6());
+            //System.out.println(Computer.getDomainName());
+            //System.out.println(Computer.getHostName());
+           
+             /*File file = new File("ArquivoLog");
+             file.mkdir();*/
+             
+             GetLog log = new GetLog();
             
-            
-            
-            
-            
+    
+             File logArquivo = new File("logArquivo.txt");
+             logArquivo.createNewFile();
+              
+              try (FileWriter fileWriter = new FileWriter(logArquivo, true); 
+              BufferedWriter escrever = new BufferedWriter(fileWriter)) {
+              escrever.write(log.getLog());  
+              }catch(IOException ex){
+              }
+            //System.out.print(log.getLog());
         }
-
     }
 }
