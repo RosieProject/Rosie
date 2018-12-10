@@ -10,17 +10,21 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class SendMemoryData implements ISendData {
-
-    public SendMemoryData(){
+    private int idPc;
+    public SendMemoryData(int idPc){
+        this.idPc = idPc;
         try{
-            SendData();
+            SendData(idPc);
         }catch (Exception e){
             e.printStackTrace();
         }
     }
 
-    public void SendData() throws SQLException {
-        String update = new HardwareDatabaseRepository().insertMemoryUpdate(Memory.getMemoryTotal() - Memory.getMemoryAvailable());
+    public void SendData(int idPc) throws SQLException {
+        String update = new HardwareDatabaseRepository().insertMemoryUpdate(
+                idPc,
+                Memory.getMemoryTotal(),
+                Memory.getMemoryAvailable());
 
         Connection connection = DatabaseConnection.getConnection();
         try {

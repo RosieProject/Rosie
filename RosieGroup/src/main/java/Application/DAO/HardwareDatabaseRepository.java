@@ -7,6 +7,7 @@ import java.util.Date;
 import java.util.Locale;
 
 public class HardwareDatabaseRepository {
+
     private static HardwareDatabaseRepository ourInstance = new HardwareDatabaseRepository();
     private static DateFormat _dateFormat;
     private static Date _date;
@@ -17,32 +18,44 @@ public class HardwareDatabaseRepository {
         _date = new DateFormater().getDate();
     }
 
-    public String insertCpuUpdate(double data, String nome) {
-        return String.format(Locale.US, "INSERT INTO CpuData (Usage_Cpu, Horario,ID_PC, Name_CPU ) " +
-                        "VALUES (%f,'%s', %d, '%s')",
-                data,
-                _dateFormat.format(_date),
-                TESTEPC,
-                nome );
-    }
-
-    public String insertMemoryUpdate(long data) {
-        return String.format(Locale.US, "INSERT INTO MemoryData (Usage_Memoria, Horario) " +
-                        "VALUES (%d,'%s')",
-                data,
+    public String insertCpuUpdate(int idPc, String name, double usage, long upTime, int logical, int physical) {
+        return String.format(Locale.US, "INSERT INTO CpuData (ID_PC, Name_Cpu,"
+                + " Usage_Cpu, UpTime_Cpu, LogicalProcessor_Cpu,"
+                + " PhysicalProcessor_Cpu, Horario) "
+                + "VALUES\n"
+                + "((%s, '%s', %s, %s, %s, %s, '%s'))",
+                idPc, name, usage, upTime, logical, physical,
                 _dateFormat.format(_date));
     }
 
-    public String insertDiskUpdate(long data) {
-        return String.format(Locale.US, "INSERT INTO DiskData (Usage_Disk, Horario) " +
-                        "VALUES (%d,'%s')",
-                data,
+    public String insertMemoryUpdate(int idPc, long total, long usable) {
+        return String.format(Locale.US, "INSERT INTO MemoryData "
+                + "(ID_PC, Total_Memory, Usable_Memory, Horario) VALUES\n"
+                + "((%s, %s, %s, %s))", 2, total, usable, _dateFormat.format(_date));
+    }
+
+    public String insertDiskUpdate(int idPc, long total, long usable) {
+        return String.format(Locale.US, "INSERT INTO DiskData (ID_PC, Total_Disk, Usable_Disk, Horario) VALUES\n"
+                + "((%s, %s, %s, %s))",
+                idPc,
+                total,
+                usable,
                 _dateFormat.format(_date));
     }
 
-    public String insertOSUpdate(int bitness, String family){
-        return String.format(Locale.US, "INSERT INTO OSData (ID_PC, Bitness_OS, OS_Family) VALUES (6, %d, '%s')",
+    public String insertOSUpdate(int idPc, String family, int bitness, String version, int process, int thread, String manufacturer) {
+        return String.format(Locale.US, "INSERT INTO OSData (ID_PC, OS_Family, "
+                + "Bitness_OS, Version_OS, ProcessCount_OS, ThreadCount_OS, "
+                + "Manufacturer_OS, Horario) "
+                + "VALUES\n"
+                + "((%s, '%s', %s, '%s', %s, %s, '%s', '%s'))",
+                idPc,
+                family,
                 bitness,
-                family);
+                version,
+                process,
+                thread,
+                manufacturer,
+                _dateFormat.format(_date));
     }
 }

@@ -10,17 +10,21 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class SendDiskData implements ISendData {
-
-    public SendDiskData(){
+    private int idPc;
+    public SendDiskData(int idPc){
+        this.idPc = idPc;
         try{
-            SendData();
+            SendData(idPc);
         }catch (Exception e){
             e.printStackTrace();
         }
     }
 
-    public void SendData() throws SQLException {
-        String update = new HardwareDatabaseRepository().insertDiskUpdate(Disk.getDiskTotal() - Disk.getDiskAvailable());
+    public void SendData(int idPc) throws SQLException {
+        String update = new HardwareDatabaseRepository().insertDiskUpdate(
+                idPc,
+                Disk.getDiskTotal(),
+                Disk.getDiskAvailable());
 
         Connection connection = DatabaseConnection.getConnection();
         try {

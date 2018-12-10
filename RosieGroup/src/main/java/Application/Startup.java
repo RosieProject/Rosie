@@ -37,7 +37,7 @@ public class Startup extends Application {
         stage.show();
     }
 
-    public void end() throws Exception {
+    public void end() throws Exception 
 
     }
 
