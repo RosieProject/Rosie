@@ -13,10 +13,7 @@ public class SendHardwareDataHandler {
         sendOshiCpuData();
         sendOshiMemoryData();
         sendOshiDiskData();
-
-        if(Computer.getFamily() == null) {
-            sendOshiComputerData();
-        }
+        sendOshiComputerData();
     }
 
     public void sendOshiCpuData(){

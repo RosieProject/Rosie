@@ -11,7 +11,6 @@ public class HardwareDatabaseRepository {
     private static HardwareDatabaseRepository ourInstance = new HardwareDatabaseRepository();
     private static DateFormat _dateFormat;
     private static Date _date;
-    private static final int TESTEPC = 4;
 
     public HardwareDatabaseRepository() {
         _dateFormat = DateFormater.dateformat;
@@ -23,7 +22,7 @@ public class HardwareDatabaseRepository {
                 + " Usage_Cpu, UpTime_Cpu, LogicalProcessor_Cpu,"
                 + " PhysicalProcessor_Cpu, Horario) "
                 + "VALUES\n"
-                + "((%s, '%s', %s, %s, %s, %s, '%s'))",
+                + "(%d, '%s', %f, %d, %d, %d, '%s')",
                 idPc, name, usage, upTime, logical, physical,
                 _dateFormat.format(_date));
     }
@@ -31,12 +30,12 @@ public class HardwareDatabaseRepository {
     public String insertMemoryUpdate(int idPc, long total, long usable) {
         return String.format(Locale.US, "INSERT INTO MemoryData "
                 + "(ID_PC, Total_Memory, Usable_Memory, Horario) VALUES\n"
-                + "((%s, %s, %s, %s))", 2, total, usable, _dateFormat.format(_date));
+                + "(%s, %s, %s, '%s')", idPc, total, usable, _dateFormat.format(_date));
     }
 
     public String insertDiskUpdate(int idPc, long total, long usable) {
         return String.format(Locale.US, "INSERT INTO DiskData (ID_PC, Total_Disk, Usable_Disk, Horario) VALUES\n"
-                + "((%s, %s, %s, %s))",
+                + "(%d, %d, %d, '%s')",
                 idPc,
                 total,
                 usable,
@@ -48,7 +47,7 @@ public class HardwareDatabaseRepository {
                 + "Bitness_OS, Version_OS, ProcessCount_OS, ThreadCount_OS, "
                 + "Manufacturer_OS, Horario) "
                 + "VALUES\n"
-                + "((%s, '%s', %s, '%s', %s, %s, '%s', '%s'))",
+                + "(%s, '%s', %s, '%s', %s, %s, '%s', '%s')",
                 idPc,
                 family,
                 bitness,
