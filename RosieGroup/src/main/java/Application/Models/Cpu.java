@@ -58,11 +58,6 @@ public class Cpu {
         cpuName = name;
     }
     
-
-    public static Cpu getInstance() {
-        return ourInstance;
-    }
-    
     
     public static double getCpuUsage(){
         return cpuUsage * 100;
@@ -75,14 +70,19 @@ public class Cpu {
     public static CentralProcessor getCentralProcessor(){
         return centralProcessor;
     }
-
-    public static void getSystemUpTime(long systemUptime) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
     
     private Cpu() {
         centralProcessor = new ComputerInformation().getCentralProcessor();
+    }
+    
+    public static String CpuLogResponse(){
+        return "Cpu information:" + System.getProperty("line.separator") +
+                "CpuName:" +getCpuName()+ System.getProperty("line.separator") +
+                "CpuUsage:" +getCpuUsage()+ System.getProperty("line.separator") +
+                "Interrupts:" +getInterrupts()+ System.getProperty("line.separator") +
+                "ProcessadoresFisicos:" +getProcessadoresFisicos()+ System.getProperty("line.separator") +
+                "ProcessadoresLogicos:" +getProcessadoresLogicos()+ System.getProperty("line.separator") +
+                "SystemUpTime:" + getSystemUpTime() + System.getProperty("line.separator") + System.getProperty("line.separator");
     }
     
     

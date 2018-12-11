@@ -47,4 +47,12 @@ public class Disk {
     private Disk() {
 
     }
+    
+    public static String diskLogResponse(){
+        return "Disk information:" + System.getProperty("line.separator") +
+                "Name:" +getName()+ System.getProperty("line.separator") +
+                "DiskAvailable:" +getDiskAvailable()+ System.getProperty("line.separator") +
+                "DiskTotal:" +getDiskTotal()+ System.getProperty("line.separator") + System.getProperty("line.separator");
+                
+    }
 }
