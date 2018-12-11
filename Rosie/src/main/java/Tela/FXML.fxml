@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="347.0" prefWidth="657.0" style="-fx-background-color: #181A1C;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fx:id="imgLogo" fitHeight="142.0" fitWidth="307.0" layoutX="44.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Logo.png" />
+         </image>
+      </ImageView>
+      <JFXButton fx:id="btnEntrar" layoutX="462.0" layoutY="253.0" style="-fx-background-color: #127486;" text="Entrar" textFill="#181a1c" />
+      <JFXButton fx:id="btnAindaNaoECadastrado" layoutX="486.0" layoutY="308.0" text="Ainda não é cadastrado ?" textFill="#2f7579" />
+      <JFXTextField fx:id="lblLogin" focusColor="#127486" layoutX="401.0" layoutY="122.0" maxWidth="202.0" minWidth="173.0" prefHeight="31.0" prefWidth="202.0" promptText="Login">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </JFXTextField>
+      <ImageView fx:id="imgPessoa" fitHeight="25.0" fitWidth="24.0" layoutX="382.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Pessoa.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgCadeado" fitHeight="25.0" fitWidth="24.0" layoutX="382.0" layoutY="183.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Cadeado.png" />
+         </image>
+      </ImageView>
+      <JFXButton fx:id="btnEsqueceuASenha" layoutX="367.0" layoutY="308.0" text="Esqueceu a senha ?" textFill="#2f7579" />
+      <Line endX="1.0" endY="89.0" layoutX="350.0" layoutY="176.0" startX="1.0" startY="-94.0" stroke="#127486" />
+      <JFXPasswordField fx:id="lblSenha" focusColor="#127486" layoutX="401.0" layoutY="174.0" maxWidth="202.0" minWidth="173.0" prefHeight="31.0" prefWidth="202.0" promptText="Senha">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </JFXPasswordField>
+   </children>
+</AnchorPane>

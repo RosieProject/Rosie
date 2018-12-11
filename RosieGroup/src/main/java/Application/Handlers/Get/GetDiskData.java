@@ -14,5 +14,6 @@ public class GetDiskData implements IGetData {
     public void GetData() {
         Disk.setDiskTotal(fileStores[0].getTotalSpace());
         Disk.setDiskAvailable(fileStores[0].getUsableSpace());
+        Disk.setName(fileStores[0].getName());
     }
 }

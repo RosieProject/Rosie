@@ -12,12 +12,14 @@ import Infrastructure.MicrosoftJDBC.AzureDatabaseConnection;
 
 import javax.sql.DataSource;
 import java.sql.SQLException;
+import javafx.application.Application;
+import javafx.stage.Stage;
 import oshi.SystemInfo;
 import oshi.hardware.platform.windows.WindowsGlobalMemory;
 import oshi.software.os.OSFileStore;
 import oshi.util.FormatUtil;
 
-public class Startup {
+public class Startup extends Application {
     public static void main(String[] args) throws InterruptedException, SQLException {
         final Cpu cpu = new Cpu();
         final Memory memory = new Memory();
@@ -71,6 +73,11 @@ public class Startup {
         ApiFuture<WriteResult> result = docRef.set(data);
 
         System.out.println("Update time : " + result.get().getUpdateTime());*/
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

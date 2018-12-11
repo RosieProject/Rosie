@@ -15,5 +15,8 @@ public class GetMemoryData implements IGetData {
     public void GetData() {
         Memory.setMemoryTotal(globalMemory.getTotal());
         Memory.setMemoryAvailable(globalMemory.getAvailable());
+        Memory.setPageSize(globalMemory.getPageSize());
+        
+        
     }
 }

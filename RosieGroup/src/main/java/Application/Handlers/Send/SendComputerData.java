@@ -3,15 +3,16 @@ package Application.Handlers.Send;
 import Application.DAO.DatabaseConnection;
 import Application.DAO.HardwareDatabaseRepository;
 import Application.Interfaces.ISendData;
-import Application.Models.Disk;
+import Application.Models.Computer;
+import Application.Models.Cpu;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class SendDiskData implements ISendData {
+public class SendComputerData implements ISendData {
     private int idPc;
-    public SendDiskData(int idPc){
+    public SendComputerData(int idPc){
         this.idPc = idPc;
         try{
             SendData(idPc);
@@ -20,11 +21,16 @@ public class SendDiskData implements ISendData {
         }
     }
 
+    @Override
     public void SendData(int idPc) throws SQLException {
-        String update = new HardwareDatabaseRepository().insertDiskUpdate(
+        String update = new HardwareDatabaseRepository().insertOSUpdate(
                 idPc,
-                Disk.getDiskTotal(),
-                Disk.getDiskAvailable());
+                Computer.getFamily(),
+                Computer.getBitness(),
+                Computer.getVersion(),
+                Computer.getProcessCount(),
+                Computer.getThreadCount(),
+                Computer.getManufacturer());
 
         Connection connection = DatabaseConnection.getConnection();
         try {
