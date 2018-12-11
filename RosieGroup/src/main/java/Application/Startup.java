@@ -84,7 +84,7 @@ public class Startup extends Application {
                 BufferedWriter escrever = new BufferedWriter(fileWriter)) {
             escrever.write(log.getLog());
         } catch (IOException ex) {
-        }
-        //System.out.print(log.getLog());
+          
+        }*/
     }
 }
