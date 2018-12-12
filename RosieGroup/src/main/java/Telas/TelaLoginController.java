@@ -191,13 +191,13 @@ public class TelaLoginController implements Initializable {
             if (resultSet.next()) {
                 String userPassword = resultSet.getString("Senha_Usuario");
                 if (userPassword.equals(hashString)) {
-                    //FAZ COISAS SE FOR IGUAL
-                    System.out.println("igual");
-                   // return true;
+                    abrirProximaTela();
                 } else {
-                    //FAZ COISAS SE NÃO FOR IGUAL
-                    System.out.println("diferente");
-                   // return false;
+                   Alert alert = new Alert(Alert.AlertType.ERROR);
+                    alert.setTitle("Erro");
+                    alert.setHeaderText("Login ou senha invalida");
+                    alert.setContentText("Login ou senha invalida, certifique-se de que esta digitando corretamente");
+                    alert.show();
                 }
             } 
 
