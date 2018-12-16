@@ -6,7 +6,8 @@ import oshi.software.os.OperatingSystem;
 
 public class Computer {
     private static Computer ourInstance = new Computer();
-    
+
+    public static int idPc;
     private static OperatingSystem operatingSystem;
     private static int osBitness;
     private static String osFamily;

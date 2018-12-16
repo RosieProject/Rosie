@@ -6,19 +6,23 @@
 package Telas;
 
 import Application.DAO.DatabaseConnection;
+import Application.Models.Computer;
 import Application.Startup;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXPasswordField;
 import com.jfoenix.controls.JFXTextField;
+
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.image.ImageView;
+
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -30,6 +34,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -72,18 +77,18 @@ public class TelaLoginController implements Initializable {
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
     }
-    
+
     @FXML
     public void abrirProximaTela() {
-        try{
+        try {
 
-                Parent root = FXMLLoader.load(getClass().getResource("TelaPosLogin.fxml"));
-                Stage stage = new Stage();
-                Scene scene = new Scene(root, 400, 240);
-                stage.setScene(scene);
-                stage.show();
+            Parent root = FXMLLoader.load(getClass().getResource("TelaPosLogin.fxml"));
+            Stage stage = new Stage();
+            Scene scene = new Scene(root, 400, 240);
+            stage.setScene(scene);
+            stage.show();
 
-        }catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
 
@@ -97,8 +102,8 @@ public class TelaLoginController implements Initializable {
             public void handle(ActionEvent event) {
 
                 //System.out.println(lblLogin.getText() + lblSenha.getText());
-               
-               // String original = lblSenha.getText();
+
+                // String original = lblSenha.getText();
                 //String login = lblLogin.getText();
                 Criptografia();
                 /*if (original.equals("1234") && login.equals("root")) {
@@ -130,10 +135,9 @@ public class TelaLoginController implements Initializable {
     }
 
     ;
-    
-    
 
-     public void Criptografia() {
+
+    public void Criptografia() {
 
         String original = lblSenha.getText();
 
@@ -175,7 +179,7 @@ public class TelaLoginController implements Initializable {
 
     public void ValidaSenha(String hashString) {
 
-        String select = "select senha_usuario from usuario where email_usuario = ?";
+        String select = "SELECT ID_PC FROM UserPc WHERE Email_Usuario = ? AND Senha_Usuario = '" + hashString + "'";
 
         Connection connection = null;
         try {
@@ -184,33 +188,28 @@ public class TelaLoginController implements Initializable {
             Logger.getLogger(TelaLoginController.class.getName()).log(Level.SEVERE, null, ex);
         }
         try {
-
             PreparedStatement preparedStatement = connection.prepareStatement(select);
-            preparedStatement.setString(1, lblLogin.getText().toString());
+            preparedStatement.setString(1, lblLogin.getText());
             ResultSet resultSet = preparedStatement.executeQuery();
             if (resultSet.next()) {
-                String userPassword = resultSet.getString("Senha_Usuario");
-                if (userPassword.equals(hashString)) {
-                    abrirProximaTela();
-                } else {
-                   Alert alert = new Alert(Alert.AlertType.ERROR);
-                    alert.setTitle("Erro");
-                    alert.setHeaderText("Login ou senha invalida");
-                    alert.setContentText("Login ou senha invalida, certifique-se de que esta digitando corretamente");
-                    alert.show();
-                }
-            } 
-
+                Computer.idPc = resultSet.getInt("ID_PC");
+                abrirProximaTela();
+            } else {
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                alert.setTitle("Erro");
+                alert.setHeaderText("Login ou senha invalida");
+                alert.setContentText("Login ou senha invalida, certifique-se de que esta digitando corretamente");
+                alert.show();
+            }
         } catch (SQLException e) {
             e.printStackTrace();
             System.out.println("to aqui");
-        } /*finally {
+        } finally {
             try {
                 connection.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
-        }*/
-
+        }
     }
 }

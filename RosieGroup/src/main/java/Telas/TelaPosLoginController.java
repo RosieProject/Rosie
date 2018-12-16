@@ -8,6 +8,7 @@ package Telas;
 import Application.Handlers.GetHardwareDataHandler;
 import Application.Handlers.SendHardwareDataHandler;
 import Application.Helper.GetLog;
+import Application.Models.Computer;
 import Application.Models.Cpu;
 import Application.Models.Disk;
 import Application.Models.Memory;
@@ -84,6 +85,7 @@ public class TelaPosLoginController implements Initializable {
                         Logger.getLogger(TelaPosLoginController.class.getName()).log(Level.SEVERE, null, ex);
                     }
                     new GetHardwareDataHandler();
+                    new SendHardwareDataHandler(Computer.idPc);
                     
                     GetLog log = new GetLog();
                     todosLog += log.getLog();
