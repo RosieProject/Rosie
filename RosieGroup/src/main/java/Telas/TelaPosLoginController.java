@@ -80,7 +80,7 @@ public class TelaPosLoginController implements Initializable {
                 int n = 0;
                 while (true) {
                     try {
-                        Thread.sleep(5000);
+                        Thread.sleep(1000);
                     } catch (InterruptedException ex) {
                         Logger.getLogger(TelaPosLoginController.class.getName()).log(Level.SEVERE, null, ex);
                     }

@@ -108673,3 +108673,5988 @@ CpuTemperature:0.0
 CpuVoltage:0.0
 FanSpeed:0
 
+===================================
+Date and time of capture:16/12/2018 05:12:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.661089646161223
+Interrupts:1128487717
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255112
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4490313728
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:13:10
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:17.291428571428572
+Interrupts:1128678853
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255125
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4473057280
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:13:23
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:15.70526396857792
+Interrupts:1128843876
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255138
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4474515456
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:13:36
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.54781556713302
+Interrupts:1129103701
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255151
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4471296000
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:13:49
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:36.64406584330523
+Interrupts:1129344274
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255164
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4444663808
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:14:02
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.104390243902436
+Interrupts:1129558513
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255177
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4435972096
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:14:15
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.532518337408312
+Interrupts:1129742605
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255190
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4431601664
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:14:28
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:33.56942455217877
+Interrupts:1129994592
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255202
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4399235072
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:14:41
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.270634647056575
+Interrupts:1130273835
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255215
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4396437504
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:14:53
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.948638162191234
+Interrupts:1130495109
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255228
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4377894912
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:15:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.37567238603793
+Interrupts:1130719439
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255241
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4368658432
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:15:21
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.37050311707624
+Interrupts:1130891852
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255254
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4358520832
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:15:34
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.35329754472174
+Interrupts:1131032799
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255269
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4296384512
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:15:47
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:37.10072746524442
+Interrupts:1131395379
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255282
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4298100736
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:16:00
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.40035089029079
+Interrupts:1131602830
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255295
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4330151936
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:16:13
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.921242957677837
+Interrupts:1131784262
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255308
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4330360832
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:16:26
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.780929095354523
+Interrupts:1131997716
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255321
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4295618560
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:16:39
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.092062137579273
+Interrupts:1132183337
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255334
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4289658880
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:16:52
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.854794311056736
+Interrupts:1132402154
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255347
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4604018688
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:17:05
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:40.320373959639724
+Interrupts:1132697022
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255360
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4639236096
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:17:18
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.076517358104383
+Interrupts:1132828360
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255373
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4622647296
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:17:31
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.928028601011977
+Interrupts:1132984229
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255385
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4641140736
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:17:43
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:38.530972765660714
+Interrupts:1133234119
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255398
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5503037440
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:17:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:40.48664364182716
+Interrupts:1133507553
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255411
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5446504448
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:18:09
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:44.3321875534117
+Interrupts:1133779388
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255424
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5540700160
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:18:22
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.845356808974756
+Interrupts:1134042610
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255437
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5490405376
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:18:35
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.99967149123654
+Interrupts:1134312005
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255450
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5400031232
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:18:48
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:83.33365893683943
+Interrupts:1134476461
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255463
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4911767552
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:19:04
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:83.38523000998767
+Interrupts:1134659972
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255476
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4764155904
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:19:17
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:63.84629343979675
+Interrupts:1134910352
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255492
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4416139264
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:19:31
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.427736460902153
+Interrupts:1135132828
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255505
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4362997760
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:19:44
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:43.58969555035129
+Interrupts:1135475009
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255518
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4248920064
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:19:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:43.08463356973996
+Interrupts:1135816835
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255532
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4230942720
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:20:10
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.622875651206808
+Interrupts:1136021568
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255544
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4250144768
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:20:23
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:41.466265545059116
+Interrupts:1136233017
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255558
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4130619392
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:20:35
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:54.92764277975546
+Interrupts:1136500701
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255570
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4102172672
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:20:48
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.01849343306437
+Interrupts:1136887948
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255583
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4150706176
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:21:01
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.931400966183578
+Interrupts:1137175062
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255596
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4165509120
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:21:17
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.332609285908227
+Interrupts:1137383158
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255609
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4249387008
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:21:30
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:29.16025394382455
+Interrupts:1137609455
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255625
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4250894336
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:21:43
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:30.52029492246884
+Interrupts:1137858387
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255638
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4364623872
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:21:56
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:68.14048780487805
+Interrupts:1138086473
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255651
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4072665088
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:22:09
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:16.01528573910023
+Interrupts:1138257173
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255664
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4110237696
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:22:22
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:16.21984174815794
+Interrupts:1138354095
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255676
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4113629184
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:22:34
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.515136822915657
+Interrupts:1138679014
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255689
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4076675072
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:22:47
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:52.35403422982885
+Interrupts:1138950817
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255702
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4222136320
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:23:00
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:35.77915497349548
+Interrupts:1139244707
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255715
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4092547072
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:23:13
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.58427756505431
+Interrupts:1139662842
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255728
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4112740352
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:23:26
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:30.33322153609407
+Interrupts:1139911412
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255740
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4047822848
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:23:39
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:29.88899986808134
+Interrupts:1140194788
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255754
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4010278912
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:23:51
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.348484848484848
+Interrupts:1140402817
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255766
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4027568128
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:24:04
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.97512827542987
+Interrupts:1140658943
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255779
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:3973513216
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:24:17
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.634483301517328
+Interrupts:1140851501
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255792
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:3974529024
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:24:30
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:17.375948799000955
+Interrupts:1141039064
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255805
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4003344384
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:24:43
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.57338660451695
+Interrupts:1141251363
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255818
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4442107904
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:24:56
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.456532066508316
+Interrupts:1141375525
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255831
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4472373248
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:25:09
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.127845036319613
+Interrupts:1141490528
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255844
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4478144512
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:25:22
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.212417215308573
+Interrupts:1141618135
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255857
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4483461120
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:25:35
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.617560975609756
+Interrupts:1141734221
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255870
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4484067328
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:25:48
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.364637109019128
+Interrupts:1141861692
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255883
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4527640576
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:26:01
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:51.77114914425428
+Interrupts:1142118327
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255896
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4415258624
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:26:14
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:57.6117359413203
+Interrupts:1142361023
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255908
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4206211072
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:26:27
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:39.4809107898852
+Interrupts:1142736333
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255922
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4115869696
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:26:40
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.16595009521566
+Interrupts:1143091011
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255934
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4470812672
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:26:53
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:33.19613623301259
+Interrupts:1143257214
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255948
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4641767424
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:27:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.63495145631068
+Interrupts:1143412173
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255961
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4650508288
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:27:19
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.79116403250638
+Interrupts:1143568725
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255974
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4638515200
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:27:32
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:18.74165650937373
+Interrupts:1143680469
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255986
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4645756928
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:27:45
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:16.720063688083727
+Interrupts:1143784919
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:255999
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4657340416
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:27:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:17.920345452442458
+Interrupts:1143897007
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256012
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4657545216
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:28:10
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.737434958002847
+Interrupts:1144021525
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256025
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4652879872
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:28:23
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.627338129496405
+Interrupts:1144159891
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256038
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4787687424
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:28:36
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:29.950122249388755
+Interrupts:1144292774
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256051
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4779937792
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:28:49
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.773594132029338
+Interrupts:1144421368
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256064
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4766334976
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:29:02
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.108356994858415
+Interrupts:1144555403
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256077
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4794564608
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:29:15
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.63755287482375
+Interrupts:1144691539
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256089
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4795023360
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:29:27
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.572741075252072
+Interrupts:1144874448
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256102
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4757073920
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:29:40
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.92
+Interrupts:1145023557
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256115
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4766175232
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:29:53
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.08484000155527
+Interrupts:1145175346
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256128
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4762374144
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:30:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.08405797101449
+Interrupts:1145380060
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256141
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4763586560
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:30:19
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:18.49680472034234
+Interrupts:1145496420
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256154
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4764004352
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:30:32
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.794648557664402
+Interrupts:1145621779
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256167
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4755836928
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:30:45
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.599945047396616
+Interrupts:1145818303
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256180
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4756897792
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:30:58
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.96163931242109
+Interrupts:1146052012
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256193
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4704653312
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:31:11
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.39225345310538
+Interrupts:1146214313
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256206
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4726763520
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:31:24
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.240600183411054
+Interrupts:1146335548
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256218
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4719456256
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:31:37
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.30552686435426
+Interrupts:1146470338
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256232
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4673859584
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:31:49
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:38.49778161686756
+Interrupts:1146671645
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256245
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4721205248
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:32:03
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:51.62953633000079
+Interrupts:1146949704
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256257
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4597874688
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:32:16
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.85737964565914
+Interrupts:1147121596
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256271
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4589178880
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:32:29
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:38.8619475948377
+Interrupts:1147531478
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256284
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4555849728
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:32:43
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:38.63732057416268
+Interrupts:1147800975
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256297
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4470824960
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:32:56
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.20273715039864
+Interrupts:1147935014
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256310
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4471058432
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:33:09
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.72416858296779
+Interrupts:1148072914
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256323
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4456767488
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:33:23
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.19209653326091
+Interrupts:1148224083
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256336
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:4461277184
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:33:37
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:52.10096008264904
+Interrupts:1148445425
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256350
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6263758848
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:33:50
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:59.04402981307939
+Interrupts:1148744678
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256365
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5968392192
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:34:03
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.04509803921569
+Interrupts:1149111997
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256378
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5920575488
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:34:16
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.094448533684577
+Interrupts:1149404550
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256391
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5940715520
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:34:29
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.90757946210269
+Interrupts:1149666689
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256404
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5934944256
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:34:41
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:55.750610092104225
+Interrupts:1149918361
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256416
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5574852608
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:34:54
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:37.87569245275606
+Interrupts:1150204448
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256429
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5826207744
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:35:07
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.12807766078209
+Interrupts:1150465693
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256442
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5848940544
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:35:21
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.124974147818076
+Interrupts:1150655180
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256455
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5853040640
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:35:33
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.95249406175772
+Interrupts:1150865813
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256468
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5851426816
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:35:47
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.76425200242837
+Interrupts:1151201365
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256481
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5808054272
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:36:02
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.29804840800526
+Interrupts:1151602523
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256495
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5986877440
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:36:15
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.905996985734816
+Interrupts:1151839453
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256509
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5990735872
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:36:27
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.778723078102246
+Interrupts:1152020243
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256522
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5991817216
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:36:40
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.061988395491042
+Interrupts:1152221459
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256535
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5996699648
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:36:53
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:29.003422982885084
+Interrupts:1152449195
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256548
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6234284032
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:37:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.571814656691863
+Interrupts:1152649612
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256561
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6228504576
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:37:19
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.4007171671896
+Interrupts:1152825749
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256574
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6225453056
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:37:32
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.151041464644504
+Interrupts:1153026163
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256587
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6215041024
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:37:46
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.2250569476082
+Interrupts:1153242718
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256600
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6201978880
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:37:59
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.856815578465064
+Interrupts:1153434105
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256614
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6219689984
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:38:12
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.315688142976608
+Interrupts:1153632723
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256627
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6206799872
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:38:25
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:44.37638981001054
+Interrupts:1153870068
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256639
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6177705984
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:38:37
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.90032502708559
+Interrupts:1154045429
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256652
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6176309248
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:38:50
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.267880516537403
+Interrupts:1154275720
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256665
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6201249792
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:39:04
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.18840579710145
+Interrupts:1154628094
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256678
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6196662272
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:39:17
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.146604215456676
+Interrupts:1154890312
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256691
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6195245056
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:39:29
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.27985656376676
+Interrupts:1155127312
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256704
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6193098752
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:39:42
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.777349397590363
+Interrupts:1155371924
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256717
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6187257856
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:39:55
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.46153846153846
+Interrupts:1155616978
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256730
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6182879232
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:40:08
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.89640262547962
+Interrupts:1155919544
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256743
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6178312192
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:40:24
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@41ad7e34
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:241
+ThreadCount:2811
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:38.98640776699029
+Interrupts:1156183914
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256756
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6141427712
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:40:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.760229399726505
+Interrupts:1156974773
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256792
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6075576320
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:41:08
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:42.968555170146686
+Interrupts:1157295584
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256803
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6046216192
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:41:20
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.485248032684137
+Interrupts:1157576156
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256814
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6066724864
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:41:30
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.786652653704678
+Interrupts:1157848194
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256825
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6052200448
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:41:41
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.962203272643464
+Interrupts:1158121773
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256836
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6064504832
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:41:52
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.28558385830366
+Interrupts:1158357177
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256847
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6057320448
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:03
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:40.0816027139779
+Interrupts:1158647509
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256858
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5942980608
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:14
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:30.796521739130434
+Interrupts:1158910713
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256869
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5939478528
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:25
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:27.783823835876536
+Interrupts:1159133924
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256880
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5931245568
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:35
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.040196350838198
+Interrupts:1159348765
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256890
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5947531264
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:46
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.08675661240508
+Interrupts:1159592630
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256901
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5944000512
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:42:57
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.97068140303822
+Interrupts:1159866417
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256912
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5937614848
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:43:09
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:32.182535211267606
+Interrupts:1160131135
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256923
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5934710784
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:43:20
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.54986807387863
+Interrupts:1160359367
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256935
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5938778112
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:43:31
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:40.859174580314146
+Interrupts:1160722650
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256946
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5892886528
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:43:42
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:31.734870317002883
+Interrupts:1161018832
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256957
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5954097152
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:43:53
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:43.174810800710084
+Interrupts:1161324799
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256968
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5916889088
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:04
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.200000000000003
+Interrupts:1161621211
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256978
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5936861184
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:15
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.284656872701014
+Interrupts:1161946836
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:256989
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5974409216
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:25
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:19.620311280473807
+Interrupts:1162240668
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257000
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5975801856
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:36
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.086652239974217
+Interrupts:1162548218
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257011
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5974659072
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:48
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.59188707688091
+Interrupts:1162777414
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257022
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5972979712
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:44:59
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:25.895857294274183
+Interrupts:1163008370
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257033
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5979807744
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:45:10
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.493698630136986
+Interrupts:1163242406
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257045
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5980200960
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:45:22
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.69554134328698
+Interrupts:1163458377
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257056
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5978095616
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:45:34
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.141850291639663
+Interrupts:1163689561
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257068
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5978497024
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:45:44
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.482611187023405
+Interrupts:1163913793
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257079
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5979099136
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:45:55
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:34.698850574712644
+Interrupts:1164219157
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257090
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5958574080
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:46:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.965197814310173
+Interrupts:1164507683
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257101
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5995888640
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:46:17
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.493023255813956
+Interrupts:1164754777
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257112
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5977645056
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:46:28
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.12813634211772
+Interrupts:1164985917
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257123
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5986578432
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:46:39
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.84453538646505
+Interrupts:1165210691
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257134
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:5987950592
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:46:50
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:40.95417620394058
+Interrupts:1165471353
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257145
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6002020352
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:47:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:26.008958256372367
+Interrupts:1165758180
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257155
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6152478720
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:47:20
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.212493096889
+Interrupts:1166112800
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257172
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6148616192
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:47:30
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:20.84287931416747
+Interrupts:1166370857
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257185
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6155214848
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:47:41
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.701890887262483
+Interrupts:1166602634
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257196
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6143275008
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:47:52
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.587986636667353
+Interrupts:1166823997
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257207
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6118957056
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:48:03
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@8a1c279
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:228
+ThreadCount:2527
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:30.057991941682
+Interrupts:1167072364
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257218
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6119018496
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:49:06
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@6f7a6266
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:227
+ThreadCount:2493
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:22.782529715890224
+Interrupts:1168470506
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257281
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6125469696
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:49:15
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@6f7a6266
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:227
+ThreadCount:2493
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:21.512052593133674
+Interrupts:1168648632
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257290
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6127394816
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:49:24
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@6f7a6266
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:227
+ThreadCount:2493
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:24.353103448275863
+Interrupts:1168812671
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257299
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6133682176
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:49:33
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@6f7a6266
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:227
+ThreadCount:2493
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:28.95820579887584
+Interrupts:1169030659
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257308
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6112624640
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+
+===================================
+Date and time of capture:16/12/2018 05:49:42
+Computer information:
+Family:Windows
+Manufacturer:Microsoft
+NetworkParams:oshi.software.os.windows.WindowsNetworkParams@6f7a6266
+Version:10 (Home) build 17763
+Bitness:64
+OperatingSystem:Microsoft Windows 10 (Home) build 17763
+ProcessCount:227
+ThreadCount:2493
+
+Cpu information:
+CpuName:AMD FX(tm)-4300 Quad-Core Processor            
+CpuUsage:23.10297147049694
+Interrupts:1169252523
+ProcessadoresFisicos:2
+ProcessadoresLogicos:4
+SystemUpTime:257317
+
+Disk information:
+Name:Disco Removível (D:)
+DiskAvailable:12103860224
+DiskTotal:15511601152
+
+Memory information:
+MemoryAvailable:6111772672
+MemoryTotal:12882333696
+PageSize:4096
+
+Sensor information:
+CpuTemperature:0.0
+CpuVoltage:0.0
+FanSpeed:0
+

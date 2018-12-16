@@ -14,9 +14,9 @@ public class DatabaseConnection {
         BasicDataSource ds = new BasicDataSource();
         try {
             ds.setUrl(URL);
-            ds.setMinIdle(5);
-            ds.setMaxIdle(10);
-            ds.setMaxOpenPreparedStatements(15);
+            ds.setMinIdle(20);
+            ds.setMaxIdle(50);
+            ds.setMaxOpenPreparedStatements(50);
         }catch (Exception e){
             e.printStackTrace();
         }
